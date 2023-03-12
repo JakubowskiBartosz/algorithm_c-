@@ -1,0 +1,15 @@
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\bin\Debug\net6.0\projektwidejfwo0if.exe
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\bin\Debug\net6.0\projektwidejfwo0if.deps.json
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\bin\Debug\net6.0\projektwidejfwo0if.runtimeconfig.json
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\bin\Debug\net6.0\projektwidejfwo0if.dll
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\bin\Debug\net6.0\projektwidejfwo0if.pdb
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\projektwidejfwo0if.csproj.AssemblyReference.cache
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\projektwidejfwo0if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\projektwidejfwo0if.AssemblyInfoInputs.cache
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\projektwidejfwo0if.AssemblyInfo.cs
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\projektwidejfwo0if.csproj.CoreCompileInputs.cache
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\projektwidejfwo0if.dll
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\refint\projektwidejfwo0if.dll
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\projektwidejfwo0if.pdb
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\projektwidejfwo0if.genruntimeconfig.cache
+C:\Users\48726\Desktop\projektwidejfwo0if\projektwidejfwo0if\obj\Debug\net6.0\ref\projektwidejfwo0if.dll
