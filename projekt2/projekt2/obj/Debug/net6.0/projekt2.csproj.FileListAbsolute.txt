@@ -1,0 +1,15 @@
+C:\Users\48726\Desktop\projekt2\projekt2\bin\Debug\net6.0\projekt2.exe
+C:\Users\48726\Desktop\projekt2\projekt2\bin\Debug\net6.0\projekt2.deps.json
+C:\Users\48726\Desktop\projekt2\projekt2\bin\Debug\net6.0\projekt2.runtimeconfig.json
+C:\Users\48726\Desktop\projekt2\projekt2\bin\Debug\net6.0\projekt2.dll
+C:\Users\48726\Desktop\projekt2\projekt2\bin\Debug\net6.0\projekt2.pdb
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\projekt2.csproj.AssemblyReference.cache
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\projekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\projekt2.AssemblyInfoInputs.cache
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\projekt2.AssemblyInfo.cs
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\projekt2.dll
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\refint\projekt2.dll
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\projekt2.pdb
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\projekt2.genruntimeconfig.cache
+C:\Users\48726\Desktop\projekt2\projekt2\obj\Debug\net6.0\ref\projekt2.dll
